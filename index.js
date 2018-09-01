@@ -14,7 +14,7 @@ function overWriteBestCustomer(newFavorite){
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = leastFavorite
+  leastFavoriteCustomer = 'leastFavorite'
 }
 
 function congratulateCustomer(){
